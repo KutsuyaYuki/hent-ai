@@ -627,4 +627,3 @@ class Detector():
     # detect_instance.run_on_folder(input_folder=images_path, output_folder=output_dir)
     detect_instance.run_TGAN(in_path=images_path)
     print("Fin")'''
-    
