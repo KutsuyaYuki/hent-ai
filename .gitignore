@@ -56,3 +56,6 @@ pip-delete-this-directory.txt
 .venv
 venv/
 ENV/
+ColabESRGAN/models/weights268.zip
+weights268.zip
+images/misaka.jpg
