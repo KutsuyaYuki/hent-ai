@@ -556,7 +556,7 @@ class Detector():
             return
         print("Will expand each mask by {} pixels".format(dilation/2))
 
-        file_counter = 0
+        file_counter = 1
         if(is_video == True):
             # support for multiple videos if your computer can even handle that
             vid_list = []
